@@ -2,7 +2,6 @@ Guess the Word:
 • Word <Guess> - Guesses the word.
 • Hint - Requests a hint for the word.
 
-
 • -GiveWord - Gives the word away. [Requires [] Director+]
 
 
