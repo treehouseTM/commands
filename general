@@ -1,10 +1,9 @@
-• **Suggest** <Suggestion> - Suggests your idea for the server.
-• **Report** <@User> <Reason> - Reports a user.
-• **Roblox** <@User> - Prints out the user's Roblox info.
-• **Ship** <@User1> <@User2> - Will a new couple be in sight?
-• **UrbanDictionary/UB <Text>** - Search something weird up.
-• **MyData** - DMs you your data that is stored.
+• -Suggest <Suggestion> - Suggests your idea for the server.
+• -Report <@User> <Reason> - Reports a user.
+• -Roblox <@User> - Prints out the user's Roblox info.
+• -Ship <@User1> <@User2> - Will a new couple be in sight?
+• -UrbanDictionary/UB <Text> - Search something weird up.
+• -MyData - DMs you your data that is stored.
 
-
-• **Reply** - Replys to a suggestion `Requires [] Management Team+`
-• **Notify** - Pings the "Notify" role. `Requires [] Administration+`
+• -Reply - Replys to a suggestion Requires [] Management Team+
+• -Notify - Pings the "Notify" role. Requires [] Administration+
