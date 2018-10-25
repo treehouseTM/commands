@@ -1,3 +1,23 @@
-Guess the Word,
-Tree Cutting,
-Fighting.
+__**Guess the Word**__:
+• Word <Guess> - Guesses the word.
+• Hint - Requests a hint for the word.
+
+
+• -GiveWord - Gives the word away. [Requires [] Director+]
+
+
+
+Tree Cutting:
+• -Chop - Chops down x amount of trees.
+• -Wood - Views your amount of wood.
+• -Buy - Prints out the shop.
+
+
+
+Fighting:
+• Fight - Requests to fight the mentioned user.
+• Bite - Attempts to bite the user! [10 Second Cooldown]
+• Punch - Punches the user! [5 Second Cooldown]
+
+Critical chance on punch: 20%
+Critical chance on bite: 1/7
