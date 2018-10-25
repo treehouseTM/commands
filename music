@@ -1,0 +1,14 @@
+Play
+play	Resumes the track if paused.
+play <query>	Returns the top 5 most relevant results based on the query.
+play <youtube link>	Directly plays a Youtube video. SOON
+play <1-5>	Plays the track according to the chosen number.
+Pause	pause	Pauses the track if there is anything playing.
+Stop	stop	Stops the current track and clears the queue.
+Skip	skip	Skips the currently playing track if there is something on queue.
+Resume	unause resume play	Resumes the track if it is paused.
+Queue	queue	Views what's up next.
+Volume	volume	Returns the current volume.
+volume <0-100>	Sets the volume from 1-100.
+Join	join	Joins the command author's voice channel.
+Leave	leave	Leave the voice channel.
