@@ -1,7 +1,7 @@
 • Play
   • Play -Resumes the track if paused.
   • Play <query> - Returns the top 5 most relevant results based on the query.
-  • Play <youtube link>	- Directly plays a Youtube video. SOON
+  • Play <youtube link> - Directly plays a Youtube video. SOON
   • Play <1-5> - Plays the track according to the chosen number.
  
  
