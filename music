@@ -5,17 +5,17 @@
   • Play <1-5> - Plays the track according to the chosen number.
  
  
-• Pause	
+• Pause	[Requires DJ Role]
   • Pause - Pauses the track if there is anything playing.
+  
+• Resume [Requires DJ Role]
+  • Unpause/Resume/Play - Resumes the track if it is paused.
 
-• Stop	
+• Stop [Requires Administrator Permissions]
   • Stop - Stops the current track and clears the queue.
 
-• Skip	
+• Skip [Requires DJ Role]
    • Skip - Skips the currently playing track if there is something on queue.
-
-• Resume	
-   • Unpause/Resume/Play - Resumes the track if it is paused.
    
  • Queue
     • Queue - Views what's up next.
