@@ -6,7 +6,7 @@
  
  
 • Pause	
-  • Pause	- Pauses the track if there is anything playing.
+  • Pause - Pauses the track if there is anything playing.
 
 • Stop	
   • Stop - Stops the current track and clears the queue.
@@ -21,11 +21,11 @@
     • Queue - Views what's up next.
     
 • Volume
-   • Volume	- Returns the current volume.
-   • Volume <0-100>	- Sets the volume from 1-100.
+   • Volume - Returns the current volume.
+   • Volume <0-100> - Sets the volume from 1-100.
    
 • Join
-   • Join	- Joins the command author's voice channel.
+   • Join - Joins the command author's voice channel.
    
 • Leave
    • Leave - Leave the voice channel.
